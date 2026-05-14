@@ -26,15 +26,6 @@ Responsive browser based experience
 Smooth navigation and transitions
 Time based image comparison tools
 High resolution image rendering
-Project Structure
-Interstellar-Interface/
-│
-├── index.html
-├── styles.css
-├── script.js
-├── images/
-├── assets/
-└── js/
 
 Space imagery produced by NASA contains an incredible amount of scientific and visual information, but much of it is difficult for the public to interact with because of its scale and complexity.
 
