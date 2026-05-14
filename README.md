@@ -14,8 +14,6 @@ Compare images captured across different points in time
 Highlight interesting discoveries and visual features
 Interact with space data directly from the browser
 
-We wanted to make space data more educational and accessible for everyone, not just researchers or scientists.
-
 Built With
 HTML5
 CSS3
@@ -37,16 +35,6 @@ Interstellar-Interface/
 ├── images/
 ├── assets/
 └── js/
-Getting Started
-Clone The Repository
-git clone <your-repository-url>
-Run The Project
-
-Open index.html in your browser.
-
-For the best experience, run the project using a local development server such as VS Code Live Server.
-
-Inspiration
 
 Space imagery produced by NASA contains an incredible amount of scientific and visual information, but much of it is difficult for the public to interact with because of its scale and complexity.
 
